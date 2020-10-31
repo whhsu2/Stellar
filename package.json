@@ -1,0 +1,16 @@
+{
+  "name": "stellar",
+  "version": "0.0.1",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "eventsource": "^1.0.7",
+    "js-stellar-sdk": "0.0.2",
+    "node-fetch": "^2.6.1",
+    "stellar-base": "^4.0.2",
+    "stellar-sdk": "^6.2.0"
+  },
+  "devDependencies": {
+    "eslint": "*"
+  }
+}
